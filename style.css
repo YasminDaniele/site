@@ -1,0 +1,12 @@
+header{background-color: rgb(97, 253, 253); 
+}
+
+.cabeçalho-imagem{
+    width: 10%;
+}
+
+.cabeçalho-lista-1{ 
+    display: inline-block;
+    margin: 0 16%;
+    font-size: 18px;
+}
